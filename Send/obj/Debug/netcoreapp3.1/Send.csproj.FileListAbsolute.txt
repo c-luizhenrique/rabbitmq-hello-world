@@ -1,0 +1,16 @@
+D:\repos\rabbitmq\rabbitmq-hello-world\Send\bin\Debug\netcoreapp3.1\Send.exe
+D:\repos\rabbitmq\rabbitmq-hello-world\Send\bin\Debug\netcoreapp3.1\Send.deps.json
+D:\repos\rabbitmq\rabbitmq-hello-world\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.json
+D:\repos\rabbitmq\rabbitmq-hello-world\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.dev.json
+D:\repos\rabbitmq\rabbitmq-hello-world\Send\bin\Debug\netcoreapp3.1\Send.dll
+D:\repos\rabbitmq\rabbitmq-hello-world\Send\bin\Debug\netcoreapp3.1\Send.pdb
+D:\repos\rabbitmq\rabbitmq-hello-world\Send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\repos\rabbitmq\rabbitmq-hello-world\Send\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\repos\rabbitmq\rabbitmq-hello-world\Send\obj\Debug\netcoreapp3.1\Send.csprojAssemblyReference.cache
+D:\repos\rabbitmq\rabbitmq-hello-world\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfoInputs.cache
+D:\repos\rabbitmq\rabbitmq-hello-world\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfo.cs
+D:\repos\rabbitmq\rabbitmq-hello-world\Send\obj\Debug\netcoreapp3.1\Send.csproj.CoreCompileInputs.cache
+D:\repos\rabbitmq\rabbitmq-hello-world\Send\obj\Debug\netcoreapp3.1\Send.csproj.CopyComplete
+D:\repos\rabbitmq\rabbitmq-hello-world\Send\obj\Debug\netcoreapp3.1\Send.dll
+D:\repos\rabbitmq\rabbitmq-hello-world\Send\obj\Debug\netcoreapp3.1\Send.pdb
+D:\repos\rabbitmq\rabbitmq-hello-world\Send\obj\Debug\netcoreapp3.1\Send.genruntimeconfig.cache

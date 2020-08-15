@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\repos\\rabbitmq\\rabbitmq-hello-world\\Receive\\Receive.csproj": {}
+    "D:\\repos\\rabbitmq\\rabbitmq-hello-world\\Receive\\Receive.csproj": {}
   },
   "projects": {
-    "d:\\repos\\rabbitmq\\rabbitmq-hello-world\\Receive\\Receive.csproj": {
+    "D:\\repos\\rabbitmq\\rabbitmq-hello-world\\Receive\\Receive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\repos\\rabbitmq\\rabbitmq-hello-world\\Receive\\Receive.csproj",
+        "projectUniqueName": "D:\\repos\\rabbitmq\\rabbitmq-hello-world\\Receive\\Receive.csproj",
         "projectName": "Receive",
-        "projectPath": "d:\\repos\\rabbitmq\\rabbitmq-hello-world\\Receive\\Receive.csproj",
+        "projectPath": "D:\\repos\\rabbitmq\\rabbitmq-hello-world\\Receive\\Receive.csproj",
         "packagesPath": "C:\\Users\\cluiz\\.nuget\\packages\\",
-        "outputPath": "d:\\repos\\rabbitmq\\rabbitmq-hello-world\\Receive\\obj\\",
+        "outputPath": "D:\\repos\\rabbitmq\\rabbitmq-hello-world\\Receive\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cluiz\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,16 @@
+D:\repos\rabbitmq\rabbitmq-hello-world\Receive\bin\Debug\netcoreapp3.1\Receive.exe
+D:\repos\rabbitmq\rabbitmq-hello-world\Receive\bin\Debug\netcoreapp3.1\Receive.deps.json
+D:\repos\rabbitmq\rabbitmq-hello-world\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.json
+D:\repos\rabbitmq\rabbitmq-hello-world\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.dev.json
+D:\repos\rabbitmq\rabbitmq-hello-world\Receive\bin\Debug\netcoreapp3.1\Receive.dll
+D:\repos\rabbitmq\rabbitmq-hello-world\Receive\bin\Debug\netcoreapp3.1\Receive.pdb
+D:\repos\rabbitmq\rabbitmq-hello-world\Receive\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\repos\rabbitmq\rabbitmq-hello-world\Receive\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\repos\rabbitmq\rabbitmq-hello-world\Receive\obj\Debug\netcoreapp3.1\Receive.csprojAssemblyReference.cache
+D:\repos\rabbitmq\rabbitmq-hello-world\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfoInputs.cache
+D:\repos\rabbitmq\rabbitmq-hello-world\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfo.cs
+D:\repos\rabbitmq\rabbitmq-hello-world\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CoreCompileInputs.cache
+D:\repos\rabbitmq\rabbitmq-hello-world\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CopyComplete
+D:\repos\rabbitmq\rabbitmq-hello-world\Receive\obj\Debug\netcoreapp3.1\Receive.dll
+D:\repos\rabbitmq\rabbitmq-hello-world\Receive\obj\Debug\netcoreapp3.1\Receive.pdb
+D:\repos\rabbitmq\rabbitmq-hello-world\Receive\obj\Debug\netcoreapp3.1\Receive.genruntimeconfig.cache
